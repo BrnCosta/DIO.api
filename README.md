@@ -1,2 +1,8 @@
 # Projeto DIO.api
-## Projeto de uma API criada durante o Bootcamp LocalizaLabs 
+
+🚀 This project was created to carry out an activity in #LocalizaLabs Bootcamp
+
+- API created using REST principles
+
+How to run:
+After downloading the code, use "dotnet run" in shell.
